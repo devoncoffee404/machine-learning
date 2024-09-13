@@ -1,0 +1,54 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Linear Regression",
+            "text": "it models the linear relationship b/w a dependent variable and one or more independent variables by fitting a straight line through the data points",
+            "image": "/images/linear-regression.png",
+            "path": "linear-regression"
+        },
+        {
+            "id": 2,
+            "title": "Logistic Regression",
+            "text": "method used for binary classification, predicting the probability of an outcome by using a sigmoid function to map values between 0 and 1.",
+            "image": "/images/logistic-regression.png",
+            "path": "logistic-regression"
+        },
+        {
+            "id": 3,
+            "title": "Card Title 3",
+            "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 4,
+            "title": "Card Title 1",
+            "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 5,
+            "title": "Card Title 2",
+            "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 6,
+            "title": "Card Title 3",
+            "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 7,
+            "title": "Card Title 1",
+            "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 8,
+            "title": "Card Title 2",
+            "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "image": "https://via.placeholder.com/150"
+        }
+    ]
+}
